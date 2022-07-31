@@ -1,5 +1,5 @@
 
-<img src="https://github.com/stormspirit03/portfolio/blob/7efd706386af641f1f165199bf713fcaa4288134/Explain%20me%20the%20What%20and%20I%20will%20figure%20out%20the%20how%20(1).gif" width="800" height="280"/>
+<img src="https://github.com/stormspirit03/portfolio/blob/7efd706386af641f1f165199bf713fcaa4288134/Explain%20me%20the%20What%20and%20I%20will%20figure%20out%20the%20how%20(1).gif" width="700" height="280"/>
 
 
 # 💫 About Me
