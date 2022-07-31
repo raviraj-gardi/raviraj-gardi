@@ -1,5 +1,5 @@
 
-<img src="https://github.com/stormspirit03/portfolio/blob/7efd706386af641f1f165199bf713fcaa4288134/Explain%20me%20the%20What%20and%20I%20will%20figure%20out%20the%20how%20(1).gif"/>
+<img src="https://github.com/stormspirit03/portfolio/blob/7efd706386af641f1f165199bf713fcaa4288134/Explain%20me%20the%20What%20and%20I%20will%20figure%20out%20the%20how%20(1).gif" width="1080" height="320"/>
 
 
 # 💫 About Me
@@ -17,14 +17,16 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raviraj-gardi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=raviraj-gardi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stormspirit03i&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stormspirit03&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=stormspirit03)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
-<img src="https://stormspirit03.github.io/portfolio/css/images/i1.gif"/>
+![snake gif](https://github.com/raviraj-gardi/raviraj-gardi/blob/600a6502f9e17847a5c728398770ef9d1c19594d/snanke%20eating%20git.gif)
 
----
-[![](https://visitcount.itsvg.in/api?id=stormspirit03&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
