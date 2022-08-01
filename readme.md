@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=Hey!+It's+Raviraj+here;)](https://git.io/typing-svg)
 
-⚡I have done master's in CSE from the College of Engineering Pune.<br>Got into research due to my problem-solving ability but to express them <br> I realized I needed to learn development.<br><br>⚡AI-NLP is my playground <br><br> ⚡Teach me: DevOps, UI design, Advanced Node.<br><br>⚡Iron man is the best avenger period.
+⚡I have done master's in CSE from the College of Engineering Pune.<br>Got into research due to my problem-solving ability but to express them <br> I realized I needed to learn development.<br><br>⚡AI-NLP is my playground <br><br> ⚡Teach me: DevOps, UI design, Advanced Node.<br><br>⚡Iron man is the best avenger period.<br><br>
 ⚡No point in discussing experiantial wisdom..after all it's experiantial...
 
 
