@@ -2,11 +2,11 @@
 <img src="https://github.com/stormspirit03/portfolio/blob/7efd706386af641f1f165199bf713fcaa4288134/Explain%20me%20the%20What%20and%20I%20will%20figure%20out%20the%20how%20(1).gif" width="700" height="280"/>
 
 
-# 💫 About Me <br>
+# 💫 About Me 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=3399ff&size=30&lines=Hey!+It's+Raviraj+here;)](https://git.io/typing-svg)
 
-⚡I have done master's in CSE from the College of Engineering Pune.<br>Got into research due to my problem-solving ability but to express them <br> I realized I needed to learn development.<br><br>⚡AI-NLP is my playground <br><br> ⚡Teach me: DevOps, UI design, Advanced Node.<br><br>⚡No point in discussing experiantial wisdom..after all it's experiantial....<br><br>⚡Iron man is the best avenger period✋
+⚡I have done master's in CSE from the College of Engineering Pune.<br>Got into research due to my problem-solving ability but to express them <br> I realized I needed to learn development.<br><br>⚡AI-NLP is my playground <br><br> ⚡Teach me: DevOps, UI design, Advanced Node.<br><br>⚡No point in discussing experiantial wisdom..after all it's experiantial....<br><br>⚡Iron man is the best avenger period.✋
 
 
 
