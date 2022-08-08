@@ -30,6 +30,9 @@ The project comes pre-bundled with a `package.json` files that contain the list 
 
 To install the dependencies, run this in the application folder from the command-line:
 
+![temp 1](https://user-images.githubusercontent.com/101380637/183403837-5f29113d-e158-45e8-8ea8-2652a75a41b5.jpg)
+
+
 ```bash
 $ npm install
 ```
